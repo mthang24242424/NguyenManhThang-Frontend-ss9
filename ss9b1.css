@@ -1,0 +1,20 @@
+.parents{
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    align-items: center;
+    border: 2px solid black;
+}
+.child{
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    color: white;
+    text-align: center;
+}
+p{
+    position: relative;
+    top: 25px;
+}

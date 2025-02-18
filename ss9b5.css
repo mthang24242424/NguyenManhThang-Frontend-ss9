@@ -1,0 +1,33 @@
+.parents {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 30px;
+    align-items: center;
+    width: 650px;
+}
+.parents .child {
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #800080;
+    color: white;
+    text-align: center;
+}
+.line2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 110px;
+    align-items: center;
+    width: 650px;
+}
+.line2 .child {
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #800080;
+    color: white;
+    text-align: center;
+}
